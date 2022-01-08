@@ -28,7 +28,7 @@ twitter_username: grimley517
 github_username:  grimley517
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
