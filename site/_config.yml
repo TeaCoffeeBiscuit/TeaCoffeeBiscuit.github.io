@@ -28,7 +28,7 @@ twitter_username: grimley517
 github_username:  grimley517
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
@@ -57,3 +57,7 @@ defaults:
       path: "images"
     values:
       image: true
+  - scope:
+      path: "_posts"
+    values:
+      author: "Tea"
