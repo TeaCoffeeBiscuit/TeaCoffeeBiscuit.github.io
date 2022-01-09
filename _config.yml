@@ -33,8 +33,8 @@ title: Tea, Coffee and Whyne
 email: grimpop@grimpop.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Blog of Tea, Coffee and Whyne.  Its about general and random musings.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://granarydwellers.github.io/TeaCoffeeWhyne" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/TeaCoffeeWhyne" # the subpath of your site, e.g. /blog
+url: "https://granarydwellers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: grimley517
 #github_username:  grimley517
 
@@ -65,7 +65,7 @@ plugins:
 #   - vendor/ruby/
 include:
   - images/
-
+  
 defaults:
   - scope:
       path: "images"
