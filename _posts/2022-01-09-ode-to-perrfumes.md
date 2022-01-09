@@ -2,8 +2,8 @@
 layout: post
 title:  "Ode To Perfumes"
 date:   2022-01-09 00:00:00 +0000
-author: biscuit
-categories: biscuit
+author: Biscuit
+categories: Biscuit
 ---
 
 Walking through the woods today, <br />
