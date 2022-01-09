@@ -8,4 +8,4 @@ author: "Tea"
 
 # Sunshine Daisy
 
-![Sunshine Daisy](/images/20220109_sunshineDaisy.png)
+![Sunshine Daisy]( {{ "/images/20220109_sunshineDaisy.png" | relative_url }})
