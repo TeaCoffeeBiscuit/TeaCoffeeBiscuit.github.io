@@ -73,3 +73,4 @@ defaults:
       path: "_posts"
     values:
       author: "Tea"
+theme: jekyll-theme-dinky
