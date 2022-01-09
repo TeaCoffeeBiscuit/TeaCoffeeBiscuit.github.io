@@ -32,7 +32,7 @@ kramdown:
 title: Tea, Coffee and Biscuit
 email: grimpop@grimpop.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the Blog of Tea, Coffee and Whyne.  Its about general and random musings.
+  This is the Blog of Tea, Coffee and Biscuit.  Its about general and random musings.
 baseurl: "/TeaCoffeeWhyne" # the subpath of your site, e.g. /blog
 url: "https://granarydwellers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: grimley517
