@@ -29,7 +29,7 @@ kramdown:
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tea, Coffee and Whyne
+title: Tea, Coffee and Biscuit
 email: grimpop@grimpop.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Blog of Tea, Coffee and Whyne.  Its about general and random musings.
