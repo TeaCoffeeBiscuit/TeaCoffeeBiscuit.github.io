@@ -13,4 +13,4 @@ What Alexa heard and did:<br />
 
 ![Alexa heard: "would you play nice before you do it"]({{ "images/2022-01-15-nice-Song.png" | relative_url }})
 
-To replicate if you have an Alexa ask - "play nice before you do it".  Warning contains explicit language!
+To replicate; if you have an Alexa ask - "play nice before you do it".  Warning contains explicit language!
