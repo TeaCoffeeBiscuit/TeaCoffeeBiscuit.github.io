@@ -6,8 +6,9 @@ author: Biscuit
 categories: Biscuit
 ---
 
-Much amusement this morning. Did Alexa do what I asked? No, but it did what was needed for a bloody good giggle! <br />
-T was doing an LFT.<br />
+Much amusement this morning. Did Alexa do what I asked? No, but it did what was needed for a bloody good giggle!
+
+T was doing an lateral flow test.<br />
 What I said: Blow your nose before you do it<br />
 What Alexa heard and did:<br />
 
